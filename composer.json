@@ -1,0 +1,20 @@
+{
+	"name": "avidianity/countries-and-cities",
+	"description": "Countries and their largest cities json list",
+	"keywords": [
+		"json",
+		"country",
+		"data"
+	],
+	"homepage": "http://github.com/avidianity/countries-and-cities",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "John Michael Manlupig",
+			"email": "manlupigjohnmichael@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0"
+	}
+}

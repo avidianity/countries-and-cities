@@ -1,0 +1,22 @@
+{
+	"name": "@avidian/countries-and-cities",
+	"version": "1.0.0",
+	"description": "Countries and their largest cities json list",
+	"main": "countries.json",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/avidianity/countries-and-cities.git"
+	},
+	"keywords": [
+		"countries",
+		"cities",
+		"json",
+		"database"
+	],
+	"author": "John Michael Manlupig",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/avidianity/countries-and-cities/issues"
+	},
+	"homepage": "https://github.com/avidianity/countries-and-cities#readme"
+}
